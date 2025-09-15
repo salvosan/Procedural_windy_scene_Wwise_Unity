@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5b55a42653712c46a8386162dd08314, type: 3}
+  m_Name: F7CBD30F-1337-40D3-BF8A-4D74DA877BE3
+  m_EditorClassIdentifier: 
+  objectName: Play_Doorway
+  id: 3932028651
+  guid: F7CBD30F-1337-40D3-BF8A-4D74DA877BE3
