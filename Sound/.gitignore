@@ -89,5 +89,8 @@ crashlytics-build.properties
 *.tiled-session
 *.tiled-session.meta
 
+#Vs-config
+*.vsconfig
+
 # Optional resources folder
 /Resources/*
